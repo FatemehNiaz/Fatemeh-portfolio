@@ -1,0 +1,8 @@
+.navbar{
+  background: rgb(195, 150, 128);
+  padding: 50px;
+}
+.navbar-header img{
+  width: 150px;
+  border-radius: 10px;
+}
