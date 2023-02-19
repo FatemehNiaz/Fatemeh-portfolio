@@ -5,7 +5,7 @@ const AboutMe = () => {
     <div id="AboutMe">
       <div className="row">
         <div className="col-sm-8 offset-sm-2">
-          <h3>About-</h3>
+          <h3>About</h3>
           <p className="text-justify">
             Hello world! I'm Fatemeh. I am a creative full-stack developer,
             currently based in Philadelphia who used to be a research assistant.

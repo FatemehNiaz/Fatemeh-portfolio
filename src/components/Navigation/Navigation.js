@@ -5,8 +5,8 @@ const Navigation = () => {
     <ul className="nav navbar-nav navbar-right">
       <li className="nav-item"><a href="#AboutMe">About</a></li>
       <li className="nav-item"><a href="#Work">Work</a></li>
-      <li className="nav-item"><a href="./Fatemeh-Resume.pdf">Resume</a></li>
-      <li className="nav-item"><a href="#Footer">Contact</a></li>
+      <li className="nav-item"><a href="./fatemeh-portfolio/Fatemeh-Resume.pdf">Resume</a></li>
+      <li className="nav-item"><a href="#Contact">Contact</a></li>
     </ul>
   );
 };

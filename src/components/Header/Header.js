@@ -9,7 +9,7 @@ const Header= ()=>{
         <div className="navbar-header">
           <a className="navbar-brand" href="#">Fatemeh Niaziorimi</a>
           <br />
-          <img src="./fatemehpic.jpg" alt="My picture" />
+          <img src="./fatemeh-portfolio/fatemehpic.jpg" alt="My picture" />
         </div>
         <Navigation />
       </div>
