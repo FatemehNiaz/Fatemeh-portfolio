@@ -7,9 +7,9 @@ const Header= ()=>{
     <nav className="navbar">
       <div className="container-fluid">
         <div className="navbar-header">
-          <a className="navbar-brand" href="./public/fatemehpic.png">Fatemeh Niaziorimi</a>
+          <a className="navbar-brand">Fatemeh Niaziorimi</a>
           <br />
-          <img src="./fatemeh-portfolio/fatemehpic.jpg" alt="My picture" />
+          <img src="./fatemeh-portfolio/fatemehpic.jpg" />
         </div>
         <Navigation />
       </div>
