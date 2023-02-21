@@ -51,9 +51,9 @@ The following animation shows the web application's appearance and functionality
 
 ## Mock-Up
 
-The following animation shows the web application's appearance and functionality:
+The following video shows the web application's appearance and functionality:
 
-![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](https://www.youtube.com/watch?v=h9BnkvAleeU)
+[User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](https://www.youtube.com/watch?v=h9BnkvAleeU)
 
 
 
