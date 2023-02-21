@@ -53,7 +53,7 @@ The following animation shows the web application's appearance and functionality
 
 The following video shows the web application's appearance and functionality to check different section like About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page:
 
-[Walk through VIDEO](https://www.youtube.com/watch?v=h9BnkvAleeU)
+[CLICK to view the walk through VIDEO](https://www.youtube.com/watch?v=h9BnkvAleeU)
 
 
 
