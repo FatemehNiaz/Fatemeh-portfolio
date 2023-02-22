@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fatemeh-portfolio/static/css/main.745006be.css",
-    "main.js": "/fatemeh-portfolio/static/js/main.b2a3f5e3.js",
+    "main.js": "/fatemeh-portfolio/static/js/main.c0f2f335.js",
     "static/js/787.9c710c12.chunk.js": "/fatemeh-portfolio/static/js/787.9c710c12.chunk.js",
     "static/media/background.jpg": "/fatemeh-portfolio/static/media/background.9ff7db2d6d13ce0d6a53.jpg",
     "index.html": "/fatemeh-portfolio/index.html",
     "main.745006be.css.map": "/fatemeh-portfolio/static/css/main.745006be.css.map",
-    "main.b2a3f5e3.js.map": "/fatemeh-portfolio/static/js/main.b2a3f5e3.js.map",
+    "main.c0f2f335.js.map": "/fatemeh-portfolio/static/js/main.c0f2f335.js.map",
     "787.9c710c12.chunk.js.map": "/fatemeh-portfolio/static/js/787.9c710c12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.745006be.css",
-    "static/js/main.b2a3f5e3.js"
+    "static/js/main.c0f2f335.js"
   ]
 }
